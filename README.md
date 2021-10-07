@@ -304,3 +304,5 @@ https://trello.com/b/EceUgtCL/ghost-roadmap
 
 
 Issues y Milestones de Github
+
+agradecimientos al autor.
